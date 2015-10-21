@@ -1,0 +1,33 @@
+{
+  "name": "frontend-nanodegree-arcade-game",
+  "version": "1.0.0",
+  "description": "nanodegree arcade game",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt": "^0.4.5"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-cssbeautifier": "^0.1.2"
+  },
+  "scripts": {
+    "test": "testit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluebee123/frontend-nanodegree-arcade-game.git"
+  },
+  "keywords": [
+    "arcade",
+    "game",
+    "nanodegree"
+  ],
+  "author": "nh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bluebee123/frontend-nanodegree-arcade-game/issues"
+  },
+  "homepage": "https://github.com/bluebee123/frontend-nanodegree-arcade-game#readme"
+}

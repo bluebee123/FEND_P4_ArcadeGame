@@ -1,0 +1,26 @@
+body {
+ text-align: left;
+ background-color: #D2D2C8;
+ display: flex;
+ justify-content: center;
+}
+
+#scoreboard {
+ border: solid olive;
+ border-radius: 25px;
+ background-color: #576ed8;
+ color: #5fc148;
+ height: 250px;
+ padding: 10px 10px 10px 10px;
+ margin-top: 160px;
+ margin-right: 20px;
+}
+
+.score-row {
+ display: flex;
+ justify-content: space-between;
+ margin: 40px 0 10px 0;
+ font-family: Verdana;
+ font-size: 14pt;
+}
+
